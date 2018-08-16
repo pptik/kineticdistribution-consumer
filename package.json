@@ -1,0 +1,22 @@
+{
+  "name": "kineticdistribution-consumer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pptik/kineticdistribution-consumer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pptik/kineticdistribution-consumer/issues"
+  },
+  "homepage": "https://github.com/pptik/kineticdistribution-consumer#readme",
+  "dependencies": {
+    "amqplib": "^0.5.1"
+  }
+}
